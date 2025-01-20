@@ -1,0 +1,35 @@
+print("hello world")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#If shart operatori 
+#a=int(input("A son kiriting:"))
+#b=int(input("B son kiriting:"))
+#if a > b:
+ #print("A katta")
+#elif b > a:
+ #print("B katta")
